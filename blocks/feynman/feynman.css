@@ -9,4 +9,5 @@
    background-position: left bottom;
    background-color: #f2f2f2;
    padding: 100px 0 0;
+   box-sizing: border-box;
  }
